@@ -29,6 +29,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahansiNiweka&theme=dark&hide_border=false" alt="GitHub Streak Stats"> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahansiNiweka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/> <br/>
 
+<h3>🔝 Top Contributed Repo</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=SahansiNiweka&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+
 <hr/>
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=SahansiNiweka&icon=5&color=0" alt="Visit Count"></a>
 
