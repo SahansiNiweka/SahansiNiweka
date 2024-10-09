@@ -1,5 +1,6 @@
 <h1>💫 About Me:</h1>
 <p>Hi,👋 I'm Sahansi Niweka</p>
+<p>I am currently pursuing a Diploma in Software Engineering and have a keen interest in UI/UX design and Android development.</p>
 
 <h2>🌐 Socials:</h2>
 <p align="left">
